@@ -1,3 +1,4 @@
+
 # Apktool-kalilinux
 
 `Latest apktool 2.9.3 for kali linux by H4Ck3R`
@@ -14,4 +15,9 @@ bash apktool.sh
 
 # Credit
 
-* Script by H4Ck3R (Raj Aryan)
+* Script by H4Ck3R (Raj Ar
+*
+*
+*
+*
+* yan)
